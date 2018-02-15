@@ -56,4 +56,5 @@ http://www.binarytides.com/python-socket-programming-tutorial/
 2. Navigate to source folder
 3. Inside the console type: python webserver1.py
 4. Make a request either with browser or any other packet handler on localhost:8000
+5. Optionally: Use netcat from the command-line 
 
